@@ -1,7 +1,7 @@
 Hi 👋 My name is Pavee Udomkarnpaisarn
 ======================================
 
-Web Developer/Designer & Machine Learning Engineer
+Data Scientist & Machine Learning Engineer
 --------------------------------------------------
 
 I've been a web developer for close to 9 years now. Tried machine learning and data science for a bit and ended up liking those types of work more. I am currently exploring machine learning and considering pursuing it as a career path. I also do a bit of game development (Unity and Unreal) and 3D modeling (Blender) as a hobby.
