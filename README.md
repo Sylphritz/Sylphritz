@@ -8,7 +8,7 @@ I've been a web developer for close to 9 years now. Tried machine learning and d
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [pudomkarnpaisarn@gmail.com](mailto:pudomkarnpaisarn@gmail.com)
-* 🧠  I'm learning TensorFlow and data analytics in general
+* 🧠  I'm learning TensorFlow and data science in general
 * 🤝  I'm open to collaborating on Machine learning projects
 * ⚡  I watch anime and play MMOs (mainly Final Fantasy XIV)
 
