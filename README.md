@@ -1,15 +1,15 @@
 Hi 👋 My name is Pavee Udomkarnpaisarn
 ======================================
 
-Data Scientist & Machine Learning Engineer
+Front-End Developer
 --------------------------------------------------
 
-I've been a web developer for close to 9 years now. Tried machine learning and data science for a bit and ended up liking those types of work more. I am currently exploring machine learning and considering pursuing it as a career path. I also do a bit of game development (Unity and Unreal) and 3D modeling (Blender) as a hobby.
+I've been a web developer for close to 9 years now and I'm learning more and more every day. I also do a bit of game development (Unity and Unreal) and 3D modeling (Blender) as a hobby.
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [pudomkarnpaisarn@gmail.com](mailto:pudomkarnpaisarn@gmail.com)
-* 🧠  I'm learning TensorFlow and data science in general
-* 🤝  I'm open to collaborating on Machine learning projects
+* 🧠  I'm currently learning TensorFlow and data science in general
+* 🤝  I'm open to collaborating on web development projects
 * ⚡  I watch anime and play MMOs (mainly Final Fantasy XIV)
 
 ### Skills
