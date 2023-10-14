@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pavee Udomkarnpaisarn</h1>
 <h3 align="center">A passionate front-end developer from Thailand</h3>
 
-- 🔭 I’m currently working on **a headless CMS for my personal blog**
+- 🔭 I’m currently working on **a site that plays various noises and binaural beats**
 
-- 🌱 I’m currently learning **back-end development**
+- 🌱 I’m currently learning **Laravel and re-learning Ruby on Rails**
 
 - 👨‍💻 My projects are available at [https://pavee.dev](https://pavee.dev)
 
@@ -13,7 +13,9 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pavee-udomkarnpaisarn-64957437/](https://www.linkedin.com/in/pavee-udomkarnpaisarn-64957437/)
 
-- ⚡ Fun fact **I sometimes indulge myself in game development**
+- ⚡ Fun fact
+  - **I sometimes indulge myself in game development**
+  - I'm a semi-hardcore Final Fantasy XIV Online player
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
