@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a site that plays various noises and binaural beats**
 
-- 🌱 I’m currently learning **Laravel and re-learning Ruby on Rails**
+- 🌱 I’m currently learning **Golang and trying to refresh my memory of Ruby on Rails**
 
 - 👨‍💻 My projects are available at [https://pavee.dev](https://pavee.dev)
 
@@ -14,7 +14,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/pavee-udomkarnpaisarn-64957437/](https://www.linkedin.com/in/pavee-udomkarnpaisarn-64957437/)
 
 - ⚡ Fun fact
-  - **I sometimes indulge myself in game development**
+  - I sometimes indulge myself in game development
   - I'm a semi-hardcore Final Fantasy XIV Online player
 
 <h3 align="left">Connect with me:</h3>
