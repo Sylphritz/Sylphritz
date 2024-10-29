@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pavee Udomkarnpaisarn</h1>
-<h3 align="center">A passionate front-end developer from Thailand</h3>
+<h3 align="center">A certified Vue.js developer, a front-end development expert, and a back-end Golang/Rust enthusiast</h3>
 
-- 🔭 I’m currently working on **a site that plays various noises and binaural beats**
+- 🔭 I’m currently working on **reusable backend microservice templates** using Rust, Golang, and Node.js.
 
-- 🌱 I’m currently learning **Golang and trying to refresh my memory of Ruby on Rails**
+- 🌱 I’m currently learning **various devops tools and how to scale big projects**
 
 - 👨‍💻 My projects are available at [https://pavee.dev](https://pavee.dev)
 
-- 💬 Ask me about **Vue, Nuxt, Svelte, and Astro**
+- 💬 Ask me about **Vue, Nuxt, Svelte, Astro, Rust, Golang, C#, and C++**
 
 - 📫 How to reach me **contact@pavee.dev**
 
